@@ -1,4 +1,4 @@
-# CRUD-Functionalities-Blod
+# CRUD-Functionalities-Blog
 
 npm run db in terminal within the blog_jsonserver folder
 npm run tunner in another terminal within the blog_jsonserver folder
