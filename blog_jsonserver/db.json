@@ -1,24 +1,14 @@
 {
   "blogposts": [
     {
-      "title": "APIcvsdfkk",
-      "content": "contentj for my psdost",
+      "title": "Blog test ",
+      "content": "Here is the content of the post",
       "id": 1
     },
     {
-      "title": "g",
-      "content": "g",
-      "id": 3
-    },
-    {
-      "title": "shanw",
-      "content": "killian",
-      "id": 5
-    },
-    {
-      "title": "sdf",
-      "content": "sdfdff",
-      "id": 6
+      "title": "Test",
+      "content": "Here is some content",
+      "id": 2
     }
   ]
 }
